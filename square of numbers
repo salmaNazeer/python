@@ -1,0 +1,5 @@
+int_list=[3,2,7,9,5]
+print(int_list)
+print("square of the number in above list are:");
+for i in int_list:
+    print(i*i,"\n")
